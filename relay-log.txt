@@ -1,3 +1,4 @@
 Relay Log
 Entry 1: Repository created by Student A.
+Entry 2: Student A confirms setup complete.
 
