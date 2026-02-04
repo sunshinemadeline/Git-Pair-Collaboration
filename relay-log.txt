@@ -2,4 +2,3 @@ Relay Log
 Entry 1: Repository created by Student A.
 Entry 2: Student A confirms setup complete.
 Entry 3: Student B has synced successfully.
-Entry 4: The repository was deleted (This is false).
