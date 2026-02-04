@@ -1,8 +1,10 @@
 Git Pair Collaboration
 A two-person Git branching and merging exercise.
 Team:
-- Student A: Madeline S.
-- Student B: Valentino C.
+- Student A: Madeline Stokes
+- Student B: Valentino Cavaricci
+
+
 
 
 
